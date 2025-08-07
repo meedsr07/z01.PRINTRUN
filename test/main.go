@@ -8,4 +8,4 @@ func main(){
 	z01.Printrstr(str)
 
 
-}c
+}
